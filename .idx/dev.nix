@@ -25,9 +25,7 @@
     previews = {
       enable = true;
       previews = {
-        web = {
-          command = ["python" "-m" "http.server" "$PORT" "--directory" "bostonqprocleaning.com"];
-          command = ["npm", "run", "dev"];
+        web = {        
           cwd = "boston-cleaning-clone";
           manager = "web";
         };
