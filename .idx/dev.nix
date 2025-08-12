@@ -27,6 +27,8 @@
       previews = {
         web = {
           command = ["python" "-m" "http.server" "$PORT" "--directory" "bostonqprocleaning.com"];
+          command = ["npm", "run", "dev"];
+          cwd = "boston-cleaning-clone";
           manager = "web";
         };
       };
