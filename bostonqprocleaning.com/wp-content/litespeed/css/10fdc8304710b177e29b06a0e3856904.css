@@ -1,0 +1,2600 @@
+.elementor-10 .elementor-element.elementor-element-c187f3f {
+    --display: flex;
+    --min-height: 600px;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --border-radius: 0px 0px 0px 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-c187f3f:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-c187f3f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #D8D8D8;
+    background-image: url(https://bostonqprocleaning.com/wp-content/uploads/2024/10/Banner_Desktop-copiar.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-10 .elementor-element.elementor-element-c187f3f,
+.elementor-10 .elementor-element.elementor-element-c187f3f::before {
+    --border-transition: 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-0cdadd2 {
+    --display: flex;
+    --justify-content: center;
+    --align-items: flex-start;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+    --margin-top: 0%;
+    --margin-bottom: 0%;
+    --margin-left: 06%;
+    --margin-right: 0%;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-0cdadd2.e-con {
+    --align-self: center
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight)
+}
+
+.elementor-10 .elementor-element.elementor-element-e6aba25 {
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-e6aba25 .elementor-heading-title {
+    color: #0C3A4A;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-widget-text-editor {
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var(--e-global-color-primary);
+    border-color: var(--e-global-color-primary)
+}
+
+.elementor-10 .elementor-element.elementor-element-e6db261 {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-widget-button .elementor-button {
+    background-color: var(--e-global-color-accent);
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-accent-font-weight)
+}
+
+.elementor-10 .elementor-element.elementor-element-88f4751 .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: linear-gradient(180deg, #2BD315 0%, #13A200 100%);
+    border-radius: 25px 25px 25px 25px;
+    padding: 13px 25px 13px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-88f4751 .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-88f4751 .elementor-button:focus {
+    background-color: #13A500
+}
+
+.elementor-10 .elementor-element.elementor-element-88f4751 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-7a39c4b {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 30px 30px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 60px;
+    --padding-bottom: 60px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-54dfb2d {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px
+}
+
+.elementor-10 .elementor-element.elementor-element-54dfb2d:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-54dfb2d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-54dfb2d,
+.elementor-10 .elementor-element.elementor-element-54dfb2d::before {
+    --border-transition: 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-86dde3a {
+    width: 100%;
+    max-width: 100%;
+    text-align: center
+}
+
+.elementor-10 .elementor-element.elementor-element-86dde3a>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-86dde3a .elementor-heading-title {
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-10 .elementor-element.elementor-element-c603708 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 30px 30px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-c05fe59 {
+    width: 100%;
+    max-width: 100%
+}
+
+.elementor-10 .elementor-element.elementor-element-5f26077 {
+    width: 100%;
+    max-width: 100%
+}
+
+.elementor-10 .elementor-element.elementor-element-1dcc172 .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: linear-gradient(180deg, #2BD315 0%, #13A200 100%);
+    border-radius: 25px 25px 25px 25px;
+    padding: 13px 25px 13px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-1dcc172 .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-1dcc172 .elementor-button:focus {
+    background-color: #13A500
+}
+
+.elementor-10 .elementor-element.elementor-element-1dcc172 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-03f1bed .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-primary);
+    border-radius: 25px 25px 25px 25px;
+    padding: 13px 25px 13px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-03f1bed .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-03f1bed .elementor-button:focus {
+    background-color: var(--e-global-color-secondary);
+    color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-03f1bed {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-03f1bed .elementor-button:hover svg,
+.elementor-10 .elementor-element.elementor-element-03f1bed .elementor-button:focus svg {
+    fill: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-7e1baee {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 0px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 30px;
+    --padding-bottom: 60px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-2fc65eb {
+    width: 100%;
+    max-width: 100%;
+    text-align: center
+}
+
+.elementor-10 .elementor-element.elementor-element-2fc65eb>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-2fc65eb .elementor-heading-title {
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-widget-divider {
+    --divider-color: var( --e-global-color-secondary)
+}
+
+.elementor-widget-divider .elementor-divider__text {
+    color: var(--e-global-color-secondary);
+    font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-secondary-font-weight)
+}
+
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon {
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon svg {
+    fill: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-74bad07 {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-secondary);
+    --divider-border-width: 1px
+}
+
+.elementor-10 .elementor-element.elementor-element-74bad07>.elementor-widget-container {
+    padding: 0 0 20px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-74bad07 .elementor-divider-separator {
+    width: 41%;
+    margin: 0 auto;
+    margin-center: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-74bad07 .elementor-divider {
+    text-align: center;
+    padding-block-start: 10px;
+    padding-block-end: 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-e24c017 {
+    --e-image-carousel-slides-to-show: 2;
+    width: 100%;
+    max-width: 100%
+}
+
+.elementor-10 .elementor-element.elementor-element-e24c017>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-e24c017 .elementor-swiper-button.elementor-swiper-button-prev,
+.elementor-10 .elementor-element.elementor-element-e24c017 .elementor-swiper-button.elementor-swiper-button-next {
+    font-size: 47px;
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-e24c017 .elementor-swiper-button.elementor-swiper-button-prev svg,
+.elementor-10 .elementor-element.elementor-element-e24c017 .elementor-swiper-button.elementor-swiper-button-next svg {
+    fill: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-e24c017 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-34b379a {
+    --e-image-carousel-slides-to-show: 4;
+    width: 100%;
+    max-width: 100%
+}
+
+.elementor-10 .elementor-element.elementor-element-34b379a>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 20px 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-34b379a .elementor-swiper-button.elementor-swiper-button-prev,
+.elementor-10 .elementor-element.elementor-element-34b379a .elementor-swiper-button.elementor-swiper-button-next {
+    font-size: 47px;
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-34b379a .elementor-swiper-button.elementor-swiper-button-prev svg,
+.elementor-10 .elementor-element.elementor-element-34b379a .elementor-swiper-button.elementor-swiper-button-next svg {
+    fill: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-34b379a .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-a2e0098 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: space-evenly;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 60px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-widget-icon-box.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon,
+.elementor-widget-icon-box.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+    border-color: var(--e-global-color-primary)
+}
+
+.elementor-widget-icon-box .elementor-icon-box-title {
+    color: var(--e-global-color-primary)
+}
+
+.elementor-widget-icon-box .elementor-icon-box-title,
+.elementor-widget-icon-box .elementor-icon-box-title a {
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight)
+}
+
+.elementor-widget-icon-box .elementor-icon-box-description {
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3 {
+    width: var(--container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0;
+    --icon-box-icon-margin: 16px
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3>.elementor-widget-container {
+    padding: 15px 15px 15px 15px;
+    border-radius: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3 .elementor-icon-box-wrapper {
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3 .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-a91d3a3.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3 .elementor-icon {
+    padding: 5px
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3 .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-a91d3a3 .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc {
+    width: var(--container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0;
+    --icon-box-icon-margin: 16px
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc>.elementor-widget-container {
+    padding: 15px 15px 15px 15px;
+    border-radius: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-wrapper {
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-e8e41cc.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon {
+    font-size: 40px;
+    padding: 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-description {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b {
+    width: var(--container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0;
+    --icon-box-icon-margin: 16px
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b>.elementor-widget-container {
+    padding: 15px 15px 15px 15px;
+    border-radius: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b .elementor-icon-box-wrapper {
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-b76575b.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b .elementor-icon {
+    font-size: 40px;
+    padding: 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-b76575b .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537 {
+    width: var(--container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0;
+    --icon-box-icon-margin: 16px
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537>.elementor-widget-container {
+    padding: 15px 15px 15px 15px;
+    border-radius: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537 .elementor-icon-box-wrapper {
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537 .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-b1ab537.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537 .elementor-icon {
+    font-size: 40px;
+    padding: 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537 .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-b1ab537 .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-0f0b6bd {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: space-between;
+    --gap: 10px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.15;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 60px;
+    --padding-bottom: 60px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-0f0b6bd::before,
+.elementor-10 .elementor-element.elementor-element-0f0b6bd>.elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-0f0b6bd>.e-con-inner>.elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-0f0b6bd>.elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-0f0b6bd>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-0f0b6bd>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    background-image: url(https://bostonqprocleaning.com/wp-content/uploads/2024/08/texture-boston.webp);
+    --background-overlay: '';
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-10 .elementor-element.elementor-element-0f0b6bd::before {
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0) hue-rotate(0deg)
+}
+
+.elementor-10 .elementor-element.elementor-element-5737898 {
+    width: 100%;
+    max-width: 100%;
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-5737898>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-5737898 .elementor-heading-title {
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-10 .elementor-element.elementor-element-5f25fce {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-secondary);
+    --divider-border-width: 1px
+}
+
+.elementor-10 .elementor-element.elementor-element-5f25fce>.elementor-widget-container {
+    padding: 0 0 20px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-5f25fce .elementor-divider-separator {
+    width: 41%;
+    margin: 0 auto;
+    margin-left: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-5f25fce .elementor-divider {
+    text-align: left;
+    padding-block-start: 2px;
+    padding-block-end: 2px
+}
+
+.elementor-10 .elementor-element.elementor-element-c06dcd4 {
+    --display: flex;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-c06dcd4.e-con:hover {
+    --e-con-transform-rotateZ: -2deg;
+    --e-con-transform-scale: 1.03
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13>.elementor-widget-container {
+    background-color: #0C3A4A;
+    padding: 10px 10px 10px 10px;
+    border-radius: 0 0 10px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13 .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-acbaa13.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    border-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-acbaa13 .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-acbaa13 .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    font-weight: 600
+}
+
+.elementor-10 .elementor-element.elementor-element-26026fb>.elementor-widget-container {
+    padding: 0 15px 0 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-26026fb {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {
+    border-color: var(--e-global-color-text)
+}
+
+.elementor-widget-icon-list .elementor-icon-list-icon i {
+    color: var(--e-global-color-primary)
+}
+
+.elementor-widget-icon-list .elementor-icon-list-icon svg {
+    fill: var(--e-global-color-primary)
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-widget-icon-list .elementor-icon-list-item>a {
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-widget-icon-list .elementor-icon-list-text {
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-df78e02>.elementor-widget-container {
+    padding: 0 015px 56px 015px
+}
+
+.elementor-10 .elementor-element.elementor-element-df78e02 .elementor-icon-list-icon i {
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-df78e02 .elementor-icon-list-icon svg {
+    transition: fill 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-df78e02 {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 7px
+}
+
+.elementor-10 .elementor-element.elementor-element-df78e02 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-10 .elementor-element.elementor-element-df78e02 .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-df78e02 .elementor-icon-list-text {
+    color: var(--e-global-color-text);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-80fd994 .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: radial-gradient(at top center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 0 0;
+    padding: 13px 25px 13px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-80fd994 .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-80fd994 .elementor-button:focus {
+    background-color: #fff0;
+    background-image: linear-gradient(180deg, var(--e-global-color-secondary) 0%, var(--e-global-color-secondary) 100%)
+}
+
+.elementor-10 .elementor-element.elementor-element-80fd994 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-80fd994>.elementor-widget-container {
+    padding: 015px 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-c3f6cc1 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-f460c68 {
+    --display: flex;
+    --gap: 15px 15px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-f460c68.e-con:hover {
+    --e-con-transform-scale: 1.03
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c>.elementor-widget-container {
+    background-color: #154B5E;
+    padding: 10px 10px 10px 10px;
+    border-radius: 0 0 10px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-2af4f8c.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    border-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-2af4f8c .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-2af4f8c .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    font-weight: 600
+}
+
+.elementor-10 .elementor-element.elementor-element-089c0ba>.elementor-widget-container {
+    padding: 0 15px 0 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-089c0ba {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-d671f3e>.elementor-widget-container {
+    padding: 0 015px 0 015px
+}
+
+.elementor-10 .elementor-element.elementor-element-d671f3e .elementor-icon-list-icon i {
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-d671f3e .elementor-icon-list-icon svg {
+    transition: fill 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-d671f3e {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 7px
+}
+
+.elementor-10 .elementor-element.elementor-element-d671f3e .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-10 .elementor-element.elementor-element-d671f3e .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-d671f3e .elementor-icon-list-text {
+    color: var(--e-global-color-text);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-068de3b .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: radial-gradient(at top center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 0 0;
+    padding: 9px 25px 9px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-068de3b .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-068de3b .elementor-button:focus {
+    background-color: #fff0;
+    background-image: linear-gradient(180deg, var(--e-global-color-secondary) 0%, var(--e-global-color-secondary) 100%)
+}
+
+.elementor-10 .elementor-element.elementor-element-068de3b {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-068de3b.elementor-element {
+    --align-self: stretch
+}
+
+.elementor-10 .elementor-element.elementor-element-3e9eacc {
+    --display: flex;
+    --gap: 15px 15px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-3e9eacc.e-con:hover {
+    --e-con-transform-scale: 1.03
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4>.elementor-widget-container {
+    background-color: var(--e-global-color-secondary);
+    padding: 10px 10px 10px 10px;
+    border-radius: 0 0 10px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4 .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-6d663d4.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    border-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-6d663d4 .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-6d663d4 .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    font-weight: 600
+}
+
+.elementor-10 .elementor-element.elementor-element-b937ebd>.elementor-widget-container {
+    padding: 0 15px 0 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-b937ebd {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-a83bcaf>.elementor-widget-container {
+    padding: 0 015px 0 015px
+}
+
+.elementor-10 .elementor-element.elementor-element-a83bcaf .elementor-icon-list-icon i {
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-a83bcaf .elementor-icon-list-icon svg {
+    transition: fill 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-a83bcaf {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 7px
+}
+
+.elementor-10 .elementor-element.elementor-element-a83bcaf .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-10 .elementor-element.elementor-element-a83bcaf .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-a83bcaf .elementor-icon-list-text {
+    color: var(--e-global-color-text);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-bae1155 .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: radial-gradient(at top center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 0 0;
+    padding: 9px 25px 9px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-bae1155 .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-bae1155 .elementor-button:focus {
+    background-color: #fff0;
+    background-image: linear-gradient(180deg, var(--e-global-color-secondary) 0%, var(--e-global-color-secondary) 100%)
+}
+
+.elementor-10 .elementor-element.elementor-element-bae1155 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-bae1155.elementor-element {
+    --align-self: stretch
+}
+
+.elementor-10 .elementor-element.elementor-element-72bfc36 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: space-between;
+    --background-transition: 0.3s;
+    --padding-top: 10px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-bb07aeb {
+    --display: flex;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-bb07aeb.e-con:hover {
+    --e-con-transform-rotateZ: -2deg;
+    --e-con-transform-scale: 1.03
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0>.elementor-widget-container {
+    background-color: #fff0;
+    padding: 10px 10px 10px 10px;
+    background-image: radial-gradient(at top center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 10px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0 .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-cab52e0.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    border-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-cab52e0 .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-cab52e0 .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    font-weight: 600
+}
+
+.elementor-10 .elementor-element.elementor-element-29ff2eb>.elementor-widget-container {
+    padding: 0 15px 0 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-29ff2eb {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-5f48237>.elementor-widget-container {
+    padding: 0 015px 0 015px
+}
+
+.elementor-10 .elementor-element.elementor-element-5f48237 .elementor-icon-list-icon i {
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-5f48237 .elementor-icon-list-icon svg {
+    transition: fill 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-5f48237 {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 7px
+}
+
+.elementor-10 .elementor-element.elementor-element-5f48237 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-10 .elementor-element.elementor-element-5f48237 .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-5f48237 .elementor-icon-list-text {
+    color: var(--e-global-color-text);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-dbee575 .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: radial-gradient(at top center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 0 0;
+    padding: 9px 25px 9px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-dbee575 .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-dbee575 .elementor-button:focus {
+    background-color: #fff0;
+    background-image: linear-gradient(180deg, var(--e-global-color-secondary) 0%, var(--e-global-color-secondary) 100%)
+}
+
+.elementor-10 .elementor-element.elementor-element-dbee575 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-dbee575.elementor-element {
+    --align-self: stretch
+}
+
+.elementor-10 .elementor-element.elementor-element-e7af1ec {
+    --display: flex;
+    --gap: 20px 20px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-e7af1ec.e-con:hover {
+    --e-con-transform-scale: 1.03
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7>.elementor-widget-container {
+    background-color: #fff0;
+    padding: 10px 10px 10px 10px;
+    background-image: radial-gradient(at bottom center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 10px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7.ha-has-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7 .elementor-icon-box-title {
+    margin-bottom: 0;
+    color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7.elementor-view-framed .elementor-icon,
+.elementor-10 .elementor-element.elementor-element-01529c7.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    border-color: var(--e-global-color-accent)
+}
+
+.elementor-10 .elementor-element.elementor-element-01529c7 .elementor-icon-box-title,
+.elementor-10 .elementor-element.elementor-element-01529c7 .elementor-icon-box-title a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    font-weight: 600
+}
+
+.elementor-10 .elementor-element.elementor-element-2c62b19>.elementor-widget-container {
+    padding: 0 15px 0 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-2c62b19 {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-dddd79e>.elementor-widget-container {
+    padding: 0 015px 0 015px
+}
+
+.elementor-10 .elementor-element.elementor-element-dddd79e .elementor-icon-list-icon i {
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-dddd79e .elementor-icon-list-icon svg {
+    transition: fill 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-dddd79e {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 7px
+}
+
+.elementor-10 .elementor-element.elementor-element-dddd79e .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-10 .elementor-element.elementor-element-dddd79e .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-dddd79e .elementor-icon-list-text {
+    color: var(--e-global-color-text);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-cdd5fa7 .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: radial-gradient(at top center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+    border-radius: 0 0 0 0;
+    padding: 9px 25px 9px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-cdd5fa7 .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-cdd5fa7 .elementor-button:focus {
+    background-color: #fff0;
+    background-image: linear-gradient(180deg, var(--e-global-color-secondary) 0%, var(--e-global-color-secondary) 100%)
+}
+
+.elementor-10 .elementor-element.elementor-element-cdd5fa7 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-10 .elementor-element.elementor-element-cdd5fa7.elementor-element {
+    --align-self: stretch
+}
+
+.elementor-10 .elementor-element.elementor-element-df1b1f7 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --align-items: stretch;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.55;
+    --padding-top: 40px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+    --z-index: 99
+}
+
+.elementor-10 .elementor-element.elementor-element-df1b1f7:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-df1b1f7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url(https://bostonqprocleaning.com/wp-content/uploads/2024/08/background_about.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-10 .elementor-element.elementor-element-df1b1f7::before,
+.elementor-10 .elementor-element.elementor-element-df1b1f7>.elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-df1b1f7>.e-con-inner>.elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-df1b1f7>.elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-df1b1f7>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-df1b1f7>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    background-color: var(--e-global-color-text);
+    --background-overlay: ''
+}
+
+.elementor-10 .elementor-element.elementor-element-df1b1f7,
+.elementor-10 .elementor-element.elementor-element-df1b1f7::before {
+    --border-transition: 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-f7d5c35 {
+    --display: flex;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 60px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-197d537 {
+    width: 100%;
+    max-width: 100%;
+    text-align: center
+}
+
+.elementor-10 .elementor-element.elementor-element-197d537>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-197d537 .elementor-heading-title {
+    color: var(--e-global-color-accent);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-10 .elementor-element.elementor-element-27a3c57 {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-secondary);
+    --divider-border-width: 1px
+}
+
+.elementor-10 .elementor-element.elementor-element-27a3c57>.elementor-widget-container {
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-27a3c57 .elementor-divider-separator {
+    width: 41%;
+    margin: 0 auto;
+    margin-center: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-27a3c57 .elementor-divider {
+    text-align: center;
+    padding-block-start: 2px;
+    padding-block-end: 2px
+}
+
+.elementor-10 .elementor-element.elementor-element-5a2dead>.elementor-widget-container {
+    padding: 0 15px 0 15px
+}
+
+.elementor-10 .elementor-element.elementor-element-5a2dead {
+    text-align: center;
+    color: var(--e-global-color-accent);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-0864c41>.elementor-widget-container {
+    padding: 0 015px 0 015px
+}
+
+.elementor-10 .elementor-element.elementor-element-0864c41 .elementor-icon-list-icon i {
+    color: var(--e-global-color-primary);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-0864c41 .elementor-icon-list-icon svg {
+    fill: var(--e-global-color-primary);
+    transition: fill 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-0864c41 {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-10 .elementor-element.elementor-element-0864c41 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-10 .elementor-element.elementor-element-0864c41 .elementor-icon-list-item>a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.elementor-10 .elementor-element.elementor-element-0864c41 .elementor-icon-list-text {
+    color: var(--e-global-color-accent);
+    transition: color 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-ae9fa78 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 20px 20px;
+    --background-transition: 0.3s;
+    --border-radius: 15px 15px 15px 15px;
+    box-shadow: 0 5px 5px 5px rgb(0 0 0 / .15);
+    --margin-top: 0px;
+    --margin-bottom: -100px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 25px;
+    --padding-bottom: 25px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+    --z-index: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-ae9fa78:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-ae9fa78>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #fff0;
+    background-image: radial-gradient(at bottom center, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%)
+}
+
+.elementor-10 .elementor-element.elementor-element-ae9fa78,
+.elementor-10 .elementor-element.elementor-element-ae9fa78::before {
+    --border-transition: 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-a0f13f4 {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-183ec5a {
+    width: 100%;
+    max-width: 100%;
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-183ec5a>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 20px 0
+}
+
+.elementor-10 .elementor-element.elementor-element-183ec5a .elementor-heading-title {
+    color: var(--e-global-color-accent);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-widget-form .elementor-field-group>label,
+.elementor-widget-form .elementor-field-subgroup label {
+    color: var(--e-global-color-text)
+}
+
+.elementor-widget-form .elementor-field-group>label {
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-widget-form .elementor-field-type-html {
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-widget-form .elementor-field-group .elementor-field {
+    color: var(--e-global-color-text)
+}
+
+.elementor-widget-form .elementor-field-group .elementor-field,
+.elementor-widget-form .elementor-field-subgroup label {
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-widget-form .elementor-button {
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-accent-font-weight)
+}
+
+.elementor-widget-form .e-form__buttons__wrapper__button-next {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-widget-form .elementor-button[type="submit"] {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-widget-form .e-form__buttons__wrapper__button-previous {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-widget-form .elementor-message {
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-widget-form .e-form__indicators__indicator,
+.elementor-widget-form .e-form__indicators__indicator__label {
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-accent-font-weight)
+}
+
+.elementor-widget-form {
+    --e-form-steps-indicator-inactive-primary-color: var( --e-global-color-text);
+    --e-form-steps-indicator-active-primary-color: var( --e-global-color-accent);
+    --e-form-steps-indicator-completed-primary-color: var( --e-global-color-accent);
+    --e-form-steps-indicator-progress-color: var( --e-global-color-accent);
+    --e-form-steps-indicator-progress-background-color: var( --e-global-color-text);
+    --e-form-steps-indicator-progress-meter-color: var( --e-global-color-text)
+}
+
+.elementor-widget-form .e-form__indicators__indicator__progress__meter {
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-accent-font-weight)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group {
+    padding-right: calc(10px/2);
+    padding-left: calc(10px/2);
+    margin-bottom: 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-form-fields-wrapper {
+    margin-left: calc(-10px/2);
+    margin-right: calc(-10px/2);
+    margin-bottom: -10px
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0
+}
+
+body.rtl .elementor-10 .elementor-element.elementor-element-a731505 .elementor-labels-inline .elementor-field-group>label {
+    padding-left: 0
+}
+
+body:not(.rtl) .elementor-10 .elementor-element.elementor-element-a731505 .elementor-labels-inline .elementor-field-group>label {
+    padding-right: 0
+}
+
+body .elementor-10 .elementor-element.elementor-element-a731505 .elementor-labels-above .elementor-field-group>label {
+    padding-bottom: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group>label {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-type-html {
+    padding-bottom: 0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group .elementor-field,
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-subgroup label {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #FAFAFA;
+    border-color: var(--e-global-color-secondary);
+    border-width: 0 0 0 0;
+    border-radius: 4px 4px 4px 4px
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #FAFAFA;
+    border-color: var(--e-global-color-secondary);
+    border-width: 0 0 0 0;
+    border-radius: 4px 4px 4px 4px
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-field-group .elementor-select-wrapper::before {
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 25px 25px 25px 25px;
+    padding: 10px 20px 10px 20px
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .e-form__buttons__wrapper__button-next {
+    background-color: var(--e-global-color-accent);
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-button[type="submit"] {
+    background-color: var(--e-global-color-accent);
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-button[type="submit"] svg * {
+    fill: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .e-form__buttons__wrapper__button-previous {
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .e-form__buttons__wrapper__button-next:hover {
+    background-color: var(--e-global-color-accent);
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-button[type="submit"]:hover {
+    background-color: var(--e-global-color-accent);
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .elementor-button[type="submit"]:hover svg * {
+    fill: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 .e-form__buttons__wrapper__button-previous:hover {
+    background-color: var(--e-global-color-accent);
+    color: var(--e-global-color-text)
+}
+
+.elementor-10 .elementor-element.elementor-element-a731505 {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px
+}
+
+.elementor-10 .elementor-element.elementor-element-12b55e1 {
+    --display: flex;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --border-radius: 10px 10px 10px 10px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-b164b92>.elementor-widget-container {
+    margin: -60px 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-9577ea7 {
+    --display: flex;
+    --min-height: 600px;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-top: 200px;
+    --padding-bottom: 160px;
+    --padding-left: 0px;
+    --padding-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-00941b7 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight)
+}
+
+.elementor-10 .elementor-element.elementor-element-b64c865 {
+    width: var(--container-widget-width, 45%);
+    max-width: 45%;
+    --container-widget-width: 45%;
+    --container-widget-flex-grow: 0;
+    top: 32px;
+    z-index: 9
+}
+
+body:not(.rtl) .elementor-10 .elementor-element.elementor-element-b64c865 {
+    left: 270px
+}
+
+body.rtl .elementor-10 .elementor-element.elementor-element-b64c865 {
+    right: 270px
+}
+
+.elementor-10 .elementor-element.elementor-element-b64c865 img {
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / .38)
+}
+
+.elementor-10 .elementor-element.elementor-element-dc2d91a {
+    --display: flex;
+    --min-height: 350px;
+    --background-transition: 0.3s;
+    --border-radius: 5px 5px 5px 5px;
+    --margin-top: 80px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px
+}
+
+.elementor-10 .elementor-element.elementor-element-dc2d91a,
+.elementor-10 .elementor-element.elementor-element-dc2d91a::before {
+    --border-transition: 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-288f090 {
+    width: var(--container-widget-width, 45%);
+    max-width: 45%;
+    --container-widget-width: 45%;
+    --container-widget-flex-grow: 0;
+    top: 259px;
+    z-index: 9
+}
+
+body:not(.rtl) .elementor-10 .elementor-element.elementor-element-288f090 {
+    left: 197px
+}
+
+body.rtl .elementor-10 .elementor-element.elementor-element-288f090 {
+    right: 197px
+}
+
+.elementor-10 .elementor-element.elementor-element-288f090 img {
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / .38)
+}
+
+.elementor-10 .elementor-element.elementor-element-49750af {
+    --display: flex;
+    --background-transition: 0.3s
+}
+
+.elementor-10 .elementor-element.elementor-element-0f7f748 {
+    width: 100%;
+    max-width: 100%;
+    text-align: left
+}
+
+.elementor-10 .elementor-element.elementor-element-0f7f748>.elementor-widget-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-0f7f748 .elementor-heading-title {
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em
+}
+
+.elementor-10 .elementor-element.elementor-element-b50670c {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-secondary);
+    --divider-border-width: 1px
+}
+
+.elementor-10 .elementor-element.elementor-element-b50670c>.elementor-widget-container {
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-b50670c .elementor-divider-separator {
+    width: 41%;
+    margin: 0 auto;
+    margin-left: 0
+}
+
+.elementor-10 .elementor-element.elementor-element-b50670c .elementor-divider {
+    text-align: left;
+    padding-block-start: 2px;
+    padding-block-end: 2px
+}
+
+.elementor-10 .elementor-element.elementor-element-050797f>.elementor-widget-container {
+    margin: 0 0 -20px 0;
+    padding: 0 0 0 0
+}
+
+.elementor-10 .elementor-element.elementor-element-050797f {
+    text-align: left;
+    color: var(--e-global-color-text);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4em
+}
+
+.elementor-10 .elementor-element.elementor-element-b2cbf8c .elementor-button {
+    background-color: #fff0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    background-image: linear-gradient(180deg, #2BD315 0%, #13A200 100%);
+    border-radius: 25px 25px 25px 25px;
+    padding: 13px 25px 13px 25px
+}
+
+.elementor-10 .elementor-element.elementor-element-b2cbf8c .elementor-button:hover,
+.elementor-10 .elementor-element.elementor-element-b2cbf8c .elementor-button:focus {
+    background-color: #13A500
+}
+
+.elementor-10 .elementor-element.elementor-element-b2cbf8c {
+    width: auto;
+    max-width: auto
+}
+
+body.elementor-page-10:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-10>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAFAFA
+}
+
+@media(max-width:1024px) {
+    .elementor-10 .elementor-element.elementor-element-c187f3f:not(.elementor-motion-effects-element-type-background),
+    .elementor-10 .elementor-element.elementor-element-c187f3f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url(https://bostonqprocleaning.com/wp-content/uploads/2024/10/Tablet-copiar.webp)
+    }
+    .elementor-10 .elementor-element.elementor-element-7a39c4b {
+        --padding-top: 80px;
+        --padding-bottom: 80px;
+        --padding-left: 20px;
+        --padding-right: 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-7e1baee {
+        --padding-top: 80px;
+        --padding-bottom: 80px;
+        --padding-left: 20px;
+        --padding-right: 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-0f0b6bd {
+        --align-items: stretch;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+        --gap: 0px 0px;
+        --flex-wrap: wrap;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 80px;
+        --padding-bottom: 80px;
+        --padding-left: 20px;
+        --padding-right: 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-df1b1f7 {
+        --justify-content: center;
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 80px;
+        --padding-bottom: 80px;
+        --padding-left: 20px;
+        --padding-right: 20px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-10 .elementor-element.elementor-element-c187f3f:not(.elementor-motion-effects-element-type-background),
+    .elementor-10 .elementor-element.elementor-element-c187f3f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url(https://bostonqprocleaning.com/wp-content/uploads/2024/10/Banner_Mobile-copiar.webp)
+    }
+    .elementor-10 .elementor-element.elementor-element-c187f3f {
+        --min-height: 700px;
+        --flex-direction: row;
+        --container-widget-width: initial;
+        --container-widget-height: 100%;
+        --container-widget-flex-grow: 1;
+        --container-widget-align-self: stretch;
+        --flex-wrap-mobile: wrap;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 15px;
+        --padding-right: 15px
+    }
+    .elementor-10 .elementor-element.elementor-element-0cdadd2 {
+        --margin-top: 20px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px
+    }
+    .elementor-10 .elementor-element.elementor-element-0cdadd2.e-con {
+        --align-self: flex-start
+    }
+    .elementor-10 .elementor-element.elementor-element-e6aba25>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-e6aba25 {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-e6aba25 .elementor-heading-title {
+        font-size: 22px
+    }
+    .elementor-10 .elementor-element.elementor-element-e6db261>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-e6db261 {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-88f4751 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-7a39c4b {
+        --padding-top: 60px;
+        --padding-bottom: 60px;
+        --padding-left: 15px;
+        --padding-right: 15px
+    }
+    .elementor-10 .elementor-element.elementor-element-86dde3a>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-86dde3a {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-86dde3a .elementor-heading-title {
+        font-size: 26px
+    }
+    .elementor-10 .elementor-element.elementor-element-1dcc172 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-03f1bed {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-7e1baee {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+        --padding-top: 60px;
+        --padding-bottom: 60px;
+        --padding-left: 15px;
+        --padding-right: 15px
+    }
+    .elementor-10 .elementor-element.elementor-element-2fc65eb>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-2fc65eb {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-2fc65eb .elementor-heading-title {
+        font-size: 22px
+    }
+    .elementor-10 .elementor-element.elementor-element-74bad07>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-74bad07 .elementor-divider-separator {
+        width: 77%;
+        margin: 0 auto;
+        margin-center: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-74bad07 .elementor-divider {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-e24c017 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-e24c017>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-34b379a {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-34b379a>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-a2e0098 {
+        --gap: 10px 10px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 60px;
+        --padding-left: 10px;
+        --padding-right: 10px
+    }
+    .elementor-10 .elementor-element.elementor-element-a91d3a3 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-a91d3a3>.elementor-widget-container {
+        padding: 20px 20px 10px 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-a91d3a3 .elementor-icon-box-title {
+        margin-bottom: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-e8e41cc {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-e8e41cc>.elementor-widget-container {
+        padding: 20px 20px 10px 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-title {
+        margin-bottom: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-e8e41cc .elementor-icon-box-description {
+        line-height: 0em
+    }
+    .elementor-10 .elementor-element.elementor-element-b76575b {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-b76575b>.elementor-widget-container {
+        padding: 20px 20px 10px 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-b1ab537 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-b1ab537>.elementor-widget-container {
+        padding: 20px 10px 10px 20px
+    }
+    .elementor-10 .elementor-element.elementor-element-0f0b6bd {
+        --gap: 20px 20px;
+        --padding-top: 60px;
+        --padding-bottom: 60px;
+        --padding-left: 15px;
+        --padding-right: 15px
+    }
+    .elementor-10 .elementor-element.elementor-element-5737898>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-5737898 {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-5737898 .elementor-heading-title {
+        font-size: 26px
+    }
+    .elementor-10 .elementor-element.elementor-element-5f25fce .elementor-divider-separator {
+        width: 77%;
+        margin: 0 auto;
+        margin-center: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-5f25fce .elementor-divider {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-c06dcd4.e-con:hover {
+        --e-con-transform-rotateZ: 0deg
+    }
+    .elementor-10 .elementor-element.elementor-element-26026fb>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-26026fb {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-80fd994 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-089c0ba>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-089c0ba {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-068de3b {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-068de3b .elementor-button {
+        padding: 013px 025px 013px 025px
+    }
+    .elementor-10 .elementor-element.elementor-element-6d663d4 .elementor-icon-box-title {
+        margin-bottom: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-b937ebd>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-b937ebd {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-bae1155 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-bae1155 .elementor-button {
+        padding: 013px 025px 013px 025px
+    }
+    .elementor-10 .elementor-element.elementor-element-bb07aeb.e-con:hover {
+        --e-con-transform-rotateZ: 0deg
+    }
+    .elementor-10 .elementor-element.elementor-element-cab52e0 .elementor-icon-box-title {
+        margin-bottom: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-29ff2eb>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-29ff2eb {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-dbee575 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-dbee575 .elementor-button {
+        padding: 013px 025px 013px 025px
+    }
+    .elementor-10 .elementor-element.elementor-element-01529c7 .elementor-icon-box-title {
+        margin-bottom: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-2c62b19>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-2c62b19 {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-cdd5fa7 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-cdd5fa7 .elementor-button {
+        padding: 013px 025px 013px 025px
+    }
+    .elementor-10 .elementor-element.elementor-element-df1b1f7:not(.elementor-motion-effects-element-type-background),
+    .elementor-10 .elementor-element.elementor-element-df1b1f7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url(https://bostonqprocleaning.com/wp-content/uploads/2024/08/background_about.webp);
+        background-position: -1150px 0
+    }
+    .elementor-10 .elementor-element.elementor-element-df1b1f7 {
+        --overlay-opacity: 0.3;
+        --padding-top: 60px;
+        --padding-bottom: 60px;
+        --padding-left: 15px;
+        --padding-right: 15px
+    }
+    .elementor-10 .elementor-element.elementor-element-197d537>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-197d537 {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-197d537 .elementor-heading-title {
+        font-size: 26px
+    }
+    .elementor-10 .elementor-element.elementor-element-27a3c57 .elementor-divider-separator {
+        width: 77%
+    }
+    .elementor-10 .elementor-element.elementor-element-5a2dead>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-5a2dead {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-ae9fa78 {
+        --margin-top: 0px;
+        --margin-bottom: -600px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 25px;
+        --padding-bottom: 25px;
+        --padding-left: 15px;
+        --padding-right: 15px
+    }
+    .elementor-10 .elementor-element.elementor-element-183ec5a>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-183ec5a {
+        text-align: left
+    }
+    .elementor-10 .elementor-element.elementor-element-183ec5a .elementor-heading-title {
+        font-size: 26px
+    }
+    .elementor-10 .elementor-element.elementor-element-a731505>.elementor-widget-container {
+        padding: 20px 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-12b55e1 {
+        --min-height: 0px
+    }
+    .elementor-10 .elementor-element.elementor-element-9577ea7 {
+        --padding-top: 650px;
+        --padding-bottom: 50px;
+        --padding-left: 0px;
+        --padding-right: 0px
+    }
+    .elementor-10 .elementor-element.elementor-element-00941b7 {
+        --padding-top: 0px;
+        --padding-bottom: 140px;
+        --padding-left: 30px;
+        --padding-right: 30px
+    }
+    .elementor-10 .elementor-element.elementor-element-b64c865 {
+        --container-widget-width: 45%;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 45%);
+        max-width: 45%;
+        top: 1px
+    }
+    body:not(.rtl) .elementor-10 .elementor-element.elementor-element-b64c865 {
+        left: 11px
+    }
+    body.rtl .elementor-10 .elementor-element.elementor-element-b64c865 {
+        right: 11px
+    }
+    .elementor-10 .elementor-element.elementor-element-dc2d91a {
+        --width: 100%
+    }
+    .elementor-10 .elementor-element.elementor-element-288f090 {
+        --container-widget-width: 45%;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 45%);
+        max-width: 45%;
+        top: 342px
+    }
+    body:not(.rtl) .elementor-10 .elementor-element.elementor-element-288f090 {
+        left: 176px
+    }
+    body.rtl .elementor-10 .elementor-element.elementor-element-288f090 {
+        right: 176px
+    }
+    .elementor-10 .elementor-element.elementor-element-0f7f748>.elementor-widget-container {
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-0f7f748 {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-0f7f748 .elementor-heading-title {
+        font-size: 26px
+    }
+    .elementor-10 .elementor-element.elementor-element-b50670c .elementor-divider-separator {
+        width: 77%;
+        margin: 0 auto;
+        margin-center: 0
+    }
+    .elementor-10 .elementor-element.elementor-element-b50670c .elementor-divider {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-050797f>.elementor-widget-container {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0
+    }
+    .elementor-10 .elementor-element.elementor-element-050797f {
+        text-align: center
+    }
+    .elementor-10 .elementor-element.elementor-element-b2cbf8c {
+        width: 100%;
+        max-width: 100%
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-10 .elementor-element.elementor-element-0cdadd2 {
+        --width: 40%
+    }
+    .elementor-10 .elementor-element.elementor-element-54dfb2d {
+        --width: 50%
+    }
+    .elementor-10 .elementor-element.elementor-element-c06dcd4 {
+        --width: 37%
+    }
+    .elementor-10 .elementor-element.elementor-element-c3f6cc1 {
+        --width: 60%
+    }
+    .elementor-10 .elementor-element.elementor-element-bb07aeb {
+        --width: 37%
+    }
+    .elementor-10 .elementor-element.elementor-element-e7af1ec {
+        --width: 60%
+    }
+    .elementor-10 .elementor-element.elementor-element-a0f13f4 {
+        --width: 60%
+    }
+    .elementor-10 .elementor-element.elementor-element-12b55e1 {
+        --width: 40%
+    }
+    .elementor-10 .elementor-element.elementor-element-dc2d91a {
+        --width: 55%
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-10 .elementor-element.elementor-element-ae9fa78 {
+        --width: 100%
+    }
+}
+
+.elementor-10 .elementor-element.elementor-element-54dfb2d {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-a91d3a3 {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-e8e41cc {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+@media screen and (max-width:480px) {
+    .elementor-icon-box-content {
+        margin-top: 10px
+    }
+}
+
+.elementor-10 .elementor-element.elementor-element-b76575b {
+    background: rgb(255 255 255 / .5);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-b1ab537 {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-c06dcd4 {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-f460c68 {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-3e9eacc {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-bb07aeb {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
+
+.elementor-10 .elementor-element.elementor-element-e7af1ec {
+    background: rgb(255 255 255 / .2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / .1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(12 58 74 / .3)
+}
