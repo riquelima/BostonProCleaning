@@ -11,8 +11,7 @@ const About = () => {
             <Image
               src="/about-boston-img-1.webp" // Placeholder
               alt="Team cleaning"
-              layout="fill"
-              objectFit="cover"
+ style={{ objectFit: "cover" }}
               className="rounded-lg"
             />
           </div>
@@ -22,7 +21,7 @@ const About = () => {
               Boston Q Pro Cleaning is a team of dedicated professionals committed to providing top-quality cleaning services. We believe that a clean environment is essential for a healthy and happy life.
             </p>
             <p className="text-gray-600">
-              Our mission is to exceed our clients' expectations by delivering reliable, efficient, and thorough cleaning services. We use eco-friendly products to ensure the safety of your family and pets.
+              Our mission is to exceed our clients&apos; expectations by delivering reliable, efficient, and thorough cleaning services. We use eco-friendly products to ensure the safety of your family and pets.
             </p>
           </div>
         </div>

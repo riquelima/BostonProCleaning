@@ -11,8 +11,9 @@ const Navbar = () => {
           <Image
             src="/boston-layed-logo.webp" 
             alt="Boston Q Pro Cleaning Logo"
-            layout="fill"
-            objectFit="contain"
+            width={160}
+            height={64}
+            style={{ objectFit: "contain" }}
           />
         </div>
         <div className="hidden md:flex items-center space-x-6">

@@ -23,9 +23,9 @@ const Gallery = () => {
                 <Image
                   src={image.before}
                   alt={`Before ${index + 1}`}
-                  layout="fill"
-                  objectFit="cover"
+                  style={{ objectFit: "cover" }}
                   className="rounded-lg"
+ unoptimized
                 />
               </div>
               <h3 className="text-2xl font-semibold mb-4">After</h3>
@@ -33,9 +33,9 @@ const Gallery = () => {
                 <Image
                   src={image.after}
                   alt={`After ${index + 1}`}
-                  layout="fill"
-                  objectFit="cover"
+                  style={{ objectFit: "cover" }}
                   className="rounded-lg"
+ unoptimized
                 />
               </div>
             </div>
